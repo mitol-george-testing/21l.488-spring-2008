@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "055e5f6c-1e84-4cb7-7423-2a868f9fc921"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Contemporary Literature: Literature, Development, and Human Rights",
+  "course_description": "Central to our era is the gradual movement of all the world's regions toward a uniform standard of economic and political development. In this class we will read a variety of recent narratives that partake of, dissent from, or contribute to this story, ranging from novels and poems to World Bank and IMF statements and National Geographic reports. We will seek to understand the many motives and voices \u2013 sometimes congruent, sometimes clashing \u2013 that are currently engaged in producing accounts of people in the developing world: their hardships, laughter, and courage, and how they help themselves and are helped by outsiders who may or may not have philanthropic motives. Readings will include literature by J. G. Ballard, Jamaica Kincaid, Rohinton Mistry, and John le Carr\u00e9, as well as policy documents, newspaper and magazine articles, and the Web sites of a variety of trade and development commissions and organizations.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.488",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
